@@ -1,7 +1,7 @@
 ﻿var word = [
 	{
 		Area: 'TW', City: [
-			{ CName: '臺北市', EName: 'Taipei' },
+			{ CName: '新北市', EName: 'New Taipei' },
 
 		]
 	}
